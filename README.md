@@ -1,6 +1,6 @@
 [简体中文](./README.zh-CN.md)
 
-<h1 align="center">Ant Design Pro admin</h1>
+<h1 align="center">Ant Design Pro Admin</h1>
 
 <div align="center">
 
